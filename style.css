@@ -1,0 +1,100 @@
+.box{
+	background-color:white;
+	height: 45px;
+	width: 1700px;
+	display: flex;
+}
+.blok{
+	background-color:white;
+	width: 350px;
+	height:45px ;
+}
+.blok2{
+	background-color: white;
+	width: 650px;
+	height: 45px;
+}
+.blok3{
+	background-color: white;
+	height: 45px;
+	width: 550px;
+}
+.img{
+	width:30px ;
+	text-decoration: none;
+}
+.img1{
+	width: 80px;
+}
+
+.img3{
+	width:20px ;
+}
+.m-left{
+	margin-left: 300px;
+}
+.height{
+	height: 900px;
+
+}
+.height{
+	height: 900px;
+}
+.height{
+	height:600px ;
+	margin-left: auto;
+	margin-right: auto;
+}
+.height2{
+	height: 700px;
+}
+.m-right{
+	margin-right: 10px;
+}
+.height3{
+	height: 450px;
+}
+.width{
+	background-color:white;
+	width:800px ;
+	height:130px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+.width1{
+
+
+	height: 400px;
+
+}
+.width2{
+	
+	height:200px;
+}
+
+}
+.width4{
+	background-color: white;
+
+	height: 200px;
+.width5{
+	background-color: white;
+	width:250px;
+	height:200px;
+	margin-top:10px;
+
+.width6{
+	background-color:white;
+	width:250px;
+	height:200px;
+}
+.p{
+	background-color:white;
+}
+.p1{
+	background-color:white;
+}
+.div{
+	height:100px;
+}
